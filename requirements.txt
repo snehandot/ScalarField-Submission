@@ -1,0 +1,7 @@
+requests
+pandas
+faiss-cpu
+beautifulsoup4
+tk
+anthropic
+sentence-transformers
